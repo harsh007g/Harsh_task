@@ -1,0 +1,170 @@
+[
+    {
+       "field1":"0",
+       "Product_Name":"Infinix Hot 12 (Exploratory Blue, 64 GB)",
+       "Prices":"₹8,549",
+       "Description":"4 GB RAM | 64 GB ROM17.32 cm (6.82 inch) HD+ Display50 MP + 2 MP Depth Lens + AI Lens | 8MP Front Camera6000 mAh Lithium-ion Polymer BatteryMeditek Helio G37 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.3"
+    },
+    {
+       "field1":"1",
+       "Product_Name":"Infinix Hot 12 (7° Purple, 64 GB)",
+       "Prices":"₹8,549",
+       "Description":"4 GB RAM | 64 GB ROM17.32 cm (6.82 inch) HD+ Display50 MP + 2 MP Depth Lens + AI Lens | 8MP Front Camera6000 mAh Lithium-ion Polymer BatteryMeditek Helio G37 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.3"
+    },
+    {
+       "field1":"2",
+       "Product_Name":"Infinix Hot 12 Pro (Halo White, 128 GB)",
+       "Prices":"₹11,999",
+       "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 256 GB16.76 cm (6.6 inch) HD+ Display50 MP + Depth Lens | 8MP Front Camera5000 mAh Lithium-ion Polymer BatteryUnisoc T616 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4"
+    },
+    {
+       "field1":"3",
+       "Product_Name":"MOTOROLA g42 (Metallic Rose, 64 GB)",
+       "Prices":"₹10,999",
+       "Description":"4 GB RAM | 64 GB ROM16.43 cm (6.47 inch) Full HD+ AMOLED Display50MP + 8MP + 2MP | 16MP Front Camera5000 mAh Lithium polymer BatteryQualcomm Snapdragon 680 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"4",
+       "Product_Name":"Infinix Hot 20 5G (Blaster Green, 128 GB)",
+       "Prices":"₹12,999",
+       "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) Full HD+ Display50MP + AI Lens | 8MP Front Camera5000 mAh Li-ion Polymer BatteryDimensity 810 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"5",
+       "Product_Name":"POCO X4 Pro 5G (Yellow, 128 GB)",
+       "Prices":"₹16,499",
+       "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.94 cm (6.67 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP | 16MP Front Camera5000 mAh Lithium-ion Polymer BatteryQualcomm Snapdragon 695 5G ProcessorOne Year for Handset, 6 Months for Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"6",
+       "Product_Name":"MOTOROLA e40 (Carbon Gray, 64 GB)",
+       "Prices":"₹8,999",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) HD+ Display48MP + 2MP + 2MP | 8MP Front Camera5000 mAh BatteryUNISOC T700 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"7",
+       "Product_Name":"POCO M4 5G (Power Black, 64 GB)",
+       "Prices":"₹11,999",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 512 GB16.71 cm (6.58 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh Lithium Ion Polymer BatteryMediatek Dimensity 700 Processor1 Year Warranty for Handset and 6 Months for Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"8",
+       "Product_Name":"realme C33 (Aqua Blue, 64 GB)",
+       "Prices":"₹9,999",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) HD+ Display50MP + 0.3MP | 5MP Front Camera5000 mAh Lithium Ion BatteryUnisoc T612 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+       "Reviews":"4.5"
+    },
+    {
+       "field1":"9",
+       "Product_Name":"realme C33 (Sandy Gold, 64 GB)",
+       "Prices":"₹9,999",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) HD+ Display50MP + 0.3MP | 5MP Front Camera5000 mAh Lithium Ion BatteryUnisoc T612 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+       "Reviews":"4.5"
+    },
+    {
+       "field1":"10",
+       "Product_Name":"realme C33 (Aqua Blue, 32 GB)",
+       "Prices":"₹8,999",
+       "Description":"3 GB RAM | 32 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) HD+ Display50MP + 0.3MP | 5MP Front Camera5000 mAh Lithium Ion BatteryUnisoc T612 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+       "Reviews":"4.4"
+    },
+    {
+       "field1":"11",
+       "Product_Name":"realme C33 (Night Sea, 64 GB)",
+       "Prices":"₹9,999",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) HD+ Display50MP + 0.3MP | 5MP Front Camera5000 mAh Lithium Ion BatteryUnisoc T612 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+       "Reviews":"4.5"
+    },
+    {
+       "field1":"12",
+       "Product_Name":"APPLE iPhone 13 (Blue, 128 GB)",
+       "Prices":"₹61,999",
+       "Description":"128 GB ROM15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year",
+       "Reviews":"4.7"
+    },
+    {
+       "field1":"13",
+       "Product_Name":"POCO M4 5G (Power Black, 128 GB)",
+       "Prices":"₹13,999",
+       "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 512 GB16.71 cm (6.58 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh Lithium Ion Polymer BatteryMediatek Dimensity 700 Processor1 Year Warranty for Handset and 6 Months for Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"14",
+       "Product_Name":"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",
+       "Prices":"₹16,490",
+       "Description":"6 GB RAM | 128 GB ROM16.76 cm (6.6 inch) Display50MP Rear Camera5000 mAh Battery1 Year Warranty",
+       "Reviews":"4.3"
+    },
+    {
+       "field1":"15",
+       "Product_Name":"MOTOROLA g22 (Cosmic Black, 64 GB)",
+       "Prices":"₹9,499",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) HD+ Display50MP + 8MP + 2MP + 2MP | 16MP Front Camera5000 mAh Lithium Ion BatteryMediatek Helio G37 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"3.7"
+    },
+    {
+       "field1":"16",
+       "Product_Name":"POCO X4 Pro 5G (Laser Blue, 128 GB)",
+       "Prices":"₹16,499",
+       "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.94 cm (6.67 inch) Full HD+ Super AMOLED Display64MP + 8MP + 2MP | 16MP Front Camera5000 mAh Lithium-ion Polymer BatteryQualcomm Snapdragon 695 5G ProcessorOne Year for Handset, 6 Months for Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"17",
+       "Product_Name":"MOTOROLA g31 (Meteorite Grey, 64 GB)",
+       "Prices":"₹9,499",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.26 cm (6.4 inch) Full HD+ Display50MP + 8MP + 2MP | 13MP Front Camera5000 mAh LiPo BatteryMediatek Helio G85 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"18",
+       "Product_Name":"Infinix HOT 20 Play (Luna Blue, 64 GB)",
+       "Prices":"₹8,299",
+       "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 256 GB17.32 cm (6.82 inch) HD+ Display13Mp + AI Lens | 8MP Front Camera6000 mAh Li-ion Polymer BatteryMediaTek G37 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.4"
+    },
+    {
+       "field1":"19",
+       "Product_Name":"Infinix Hot 12 (Turquoise Cyan, 64 GB)",
+       "Prices":"₹8,549",
+       "Description":"4 GB RAM | 64 GB ROM17.32 cm (6.82 inch) HD+ Display50 MP + 2 MP Depth Lens + AI Lens | 8MP Front Camera6000 mAh Lithium-ion Polymer BatteryMeditek Helio G37 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.3"
+    },
+    {
+       "field1":"20",
+       "Product_Name":"Infinix Hot 12 (Polar Black, 64 GB)",
+       "Prices":"₹8,549",
+       "Description":"4 GB RAM | 64 GB ROM17.32 cm (6.82 inch) HD+ Display50 MP + 2 MP Depth Lens + AI Lens | 8MP Front Camera6000 mAh Lithium-ion Polymer BatteryMeditek Helio G37 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.3"
+    },
+    {
+       "field1":"21",
+       "Product_Name":"MOTOROLA G62 5G (Midnight Gray, 128 GB)",
+       "Prices":"₹15,999",
+       "Description":"8 GB RAM | 128 GB ROM16.64 cm (6.55 inch) Full HD+ Display50MP + 8MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryQualcomm Snapdragon 695 5G Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.1"
+    },
+    {
+       "field1":"22",
+       "Product_Name":"MOTOROLA G32 (Satin Silver, 64 GB)",
+       "Prices":"₹10,499",
+       "Description":"4 GB RAM | 64 GB ROM16.64 cm (6.55 inch) Full HD+ Display50MP + 8MP + 2MP | 16MP Front Camera5000 mAh Lithium Polymer BatteryQualcomm Snapdragon 680 Processor1 Year on Handset and 6 Months on Accessories",
+       "Reviews":"4.2"
+    },
+    {
+       "field1":"23",
+       "Product_Name":"APPLE iPhone 14 (Midnight, 256 GB)",
+       "Prices":"₹75,999",
+       "Description":"256 GB ROM15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip, 6 Core Processor Processor1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+       "Reviews":"4.7"
+    }
+ ]
